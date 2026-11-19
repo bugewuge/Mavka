@@ -9,7 +9,8 @@
 <br>
 
 <!-- Перетягніть скріншот прямо в редактор GitHub — він сам вставить робоче посилання. Замініть ним рядок нижче. -->
-![MAVKA — головний екран](https://github.com/bugewuge/Mavka/raw/main/docs/preview.png)
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/f7cf3619-ca23-4d71-a0fb-9b48c6ffabc0" />
+
 
 </div>
 
@@ -34,7 +35,7 @@
 
 ## 💙💛 Безкоштовно для українців
 
-MAVKA — абсолютно безкоштовна для українців. Без підписок і прихованих платежів. Якщо проєкт вам подобається, його можна підтримати добровільно через [Monobank](https://send.monobank.ua/) ❤️
+MAVKA — абсолютно безкоштовна для українців. Без підписок і прихованих платежів. Якщо проєкт вам подобається, його можна підтримати добровільно через [Monobank](https://send.monobank.ua/jar/3yLLk3dqsx) ❤️
 
 ## 🔒 Приватність
 
@@ -46,6 +47,6 @@ MAVKA — абсолютно безкоштовна для українців. �
 
 ---
 
-*English:* **MAVKA** is a free Ukrainian app for Windows 10/11: music control, quick actions (screenshot, screen recording, color picker, QR codes), widgets and favorite apps. Download the installer from the [latest release](https://github.com/bugewuge/Mavka/releases/latest). The interface is in Ukrainian. Bug reports: [Telegram](https://t.me/ВАШ_КАНАЛ).
+*English:* **MAVKA** is a free Ukrainian app for Windows 10/11: music control, quick actions (screenshot, screen recording, color picker, QR codes), widgets and favorite apps. Download the installer from the [latest release](https://github.com/bugewuge/Mavka/releases/latest). The interface is in Ukrainian. Bug reports: [Telegram](https://t.me/mavkaisland).
 
 **Слава Україні!** 🇺🇦
